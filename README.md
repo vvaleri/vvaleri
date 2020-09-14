@@ -7,6 +7,7 @@
 - SASS, SCSS;
 - gulp;
 - JavaScript:
+- PHP (на уровне работы с cms и отправки писем на почту);
 - avacode, figma, photoshop;
 
 Знакома с:
