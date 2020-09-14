@@ -1,4 +1,17 @@
 ### Hi there 👋
+Начинающий фронтенд разработчик.
+
+Навыки:
+- кроссбраузерная, адаптивная вёрстка;
+- методология БЭМ;
+- SASS, SCSS;
+- gulp;
+- JavaScript:
+- avacode, figma, photoshop;
+
+Знакома с:
+- jQuery;
+- bootstrap;
 
 <!--
 **vvaleri/vvaleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
