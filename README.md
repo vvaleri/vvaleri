@@ -8,7 +8,7 @@ JS я продолжаю изучать в данный момент. Помим
 - и gulp / webpack;
 - знакома с jquery, bootstrap.
 
-Сейчас в планах react. Собираюсь сделать это https://vvaleri.github.io/giraffes/ приложение с сохранением данных в mongoDB.
+Сейчас в планах react: переписать https://vvaleri.github.io/giraffes/ приложение, используя mongoDB для сохранения данных.
 
 
 
