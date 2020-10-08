@@ -11,8 +11,8 @@ JS я продолжаю изучать в данный момент. Помим
 Сейчас в планах react: переписать https://vvaleri.github.io/giraffes/ приложение, используя mongoDB для сохранения данных.
 
 Нахожусь в поиске работы. 
-Резюме: https://spb.hh.ru/resume/a80d579cff08618ccf0039ed1f4f425a763450
-Резюме с подробным предыдущим опытом работы: https://spb.hh.ru/resume/dbeef4a0ff071bdaa30039ed1f794b786c344c
+Резюме: https://resume.io/r/UnjvboaIA
+Резюме с подробным предыдущим опытом работы: 
 
 <!--
 **vvaleri/vvaleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
