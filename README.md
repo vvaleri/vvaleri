@@ -13,6 +13,8 @@ JS я продолжаю изучать в данный момент. Помим
 Нахожусь в поиске работы. 
 Резюме: https://resume.io/r/UnjvboaIA
 
+Резюме с предыдущим опытом работы https://spb.hh.ru/applicant/resumes/view?resume=f9db3cddff086273fa0039ed1f554155657361
+
 <!--
 **vvaleri/vvaleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
