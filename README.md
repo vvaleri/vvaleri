@@ -3,7 +3,11 @@
 I'm junior frontend developer
 
 Tools and languages:
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=plastic&logo=JavaScript&logoColor=E9D54D)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=plastic&logo=HTML&logoColor=E44D26)
+
+
 
 CV: https://resume.io/r/UnjvboaIA
 
