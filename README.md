@@ -4,7 +4,7 @@ I'm junior frontend developer
 
 CV: https://resume.io/r/UnjvboaIA
 
-https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<yellow>
+
 <!--
 **vvaleri/vvaleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
