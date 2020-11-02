@@ -4,7 +4,7 @@ I'm junior frontend developer.
 
 🌱 I’m currently learning React.
 
-🔭 I’m currently working on test tasks and app Giraffe (MERN stack).
+🔭 I’m currently working on test tasks and app (MERN stack).
 
 Tools and languages:
 
