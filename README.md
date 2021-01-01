@@ -4,13 +4,14 @@ I'm junior frontend developer.
 
 🌱 I’m currently learning React.
 
-🔭 I’m currently working on test tasks and app (MERN stack).
+🔭 I’m currently working on landing page "Dog care" and SPA "Breaking Bad".
 
 Tools and languages:
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=plastic&logo=HTML5&logoColor=E44D26)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=plastic&logo=CSS3&logoColor=2062AF)
 ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=plastic&logo=SASS&logoColor=CC6699)
+![Stylus](https://img.shields.io/badge/-Stylus-000000?style=plastic&logo=Stylus&logoColor=CC6699)
 ![БЭМ](https://img.shields.io/badge/-БЭМ-000000?style=plastic&logo=BEM&logoColor=1282B9)
 ![Gulp](https://img.shields.io/badge/-Gulp-000000?style=plastic&logo=Gulp&logoColor=EB4A4B)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=plastic&logo=Webpack&logoColor=2377BF)
