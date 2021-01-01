@@ -6,6 +6,8 @@ I'm junior frontend developer.
 
 🔭 I’m currently working on landing page "Dog care" and SPA "Breaking Bad".
 
+[My CV](https://resume.io/r/UnjvboaIA)
+
 Tools and languages:
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=plastic&logo=HTML5&logoColor=E44D26)
@@ -21,8 +23,6 @@ Tools and languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=plastic&logo=JavaScript&logoColor=E9D54D)
 
 
-
-[My CV](https://resume.io/r/UnjvboaIA)
 
 
 <!--
