@@ -22,7 +22,7 @@ Tools and languages:
 
 
 
-CV: https://resume.io/r/UnjvboaIA
+[My CV](https://resume.io/r/UnjvboaIA)
 
 
 <!--
