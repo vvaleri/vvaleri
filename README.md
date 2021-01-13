@@ -4,7 +4,7 @@ I'm junior frontend developer.
 
 🌱 I’m currently learning React.
 
-🔭 I’m currently working on landing page "Dog care" and SPA "Breaking Bad".
+🔭 I’m currently working on SPA "Breaking Bad".
 
 [My CV](https://resume.io/r/UnjvboaIA)
 
