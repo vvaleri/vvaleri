@@ -2,7 +2,7 @@
 
 I'm junior frontend developer.
 
-[My CV](https://resume.io/r/UnjvboaIA)
+I'm looking for a job. [My CV](https://resume.io/r/UnjvboaIA)
 
 Tools and languages:
 
