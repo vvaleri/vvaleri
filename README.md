@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm junior frontend developer.
+I'm junior frontend developer. [My portfolio](https://vvaleri.info/)
 
 I'm looking for a job. [My CV](https://resume.io/r/UnjvboaIA)
 
