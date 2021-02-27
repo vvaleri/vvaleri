@@ -2,8 +2,6 @@
 
 I'm junior frontend developer. [My portfolio](https://vvaleri.info/)
 
-I'm looking for a job. [My CV](https://resume.io/r/UnjvboaIA)
-
 Tools and languages:
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=plastic&logo=HTML5&logoColor=E44D26)
