@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm junior frontend developer. [My portfolio](https://vvaleri.info/)
+I'm junior frontend developer. Now I'm learning React and looking for a job. [My portfolio](https://vvaleri.info/)
 
 Tools and languages:
 
