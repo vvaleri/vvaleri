@@ -14,9 +14,11 @@ Tools and languages:
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=plastic&logo=Webpack&logoColor=2377BF)
 ![Git](https://img.shields.io/badge/-Git-000000?style=plastic&logo=Git&logoColor=F05133)
 ![React](https://img.shields.io/badge/-React-000000?style=plastic&logo=React&logoColor=0AD8FD)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=plastic&logo=Redux&logoColor=0AD8FD)
 ![Styled-components](https://img.shields.io/badge/-Styled_Components-000000?style=plastic&logo=styled-components&logoColor=BA679E)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=plastic&logo=JavaScript&logoColor=E9D54D)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=plastic&logo=MongoDB&logoColor=439A40)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=plastic&logo=MaterialUI&logoColor=0AD8FD)
 
 
 
