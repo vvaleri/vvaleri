@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm junior frontend developer. Now I'm learning React and looking for a job. [My portfolio](https://vvaleri.info/)
+I'm frontend developer.
+
+🔭 I’m currently working on improving my skills
+
+📫 How to reach me: valeria.offf@gmail.com
+
+[My portfolio](https://vvaleri.info/)
 
 Tools and languages:
 
