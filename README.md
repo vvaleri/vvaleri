@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm frontend developer.
-
-🔭 I’m currently working on improving my skills
+I'm junior frontend developer.
+<!-- 
+🔭 I’m currently working on improving my skills -->
 
 📫 How to reach me: valeria.offf@gmail.com
 
