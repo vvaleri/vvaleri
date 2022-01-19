@@ -6,7 +6,7 @@ I'm junior frontend developer.
 
 📫 How to reach me: valeria.offf@gmail.com
 
-[My portfolio](https://vvaleri.info/)
+<!-- [My portfolio](https://vvaleri.info/) -->
 
 Tools and languages:
 
