@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm junior frontend developer.
+I'm frontend developer.
 <!-- 
 🔭 I’m currently working on improving my skills -->
 
