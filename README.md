@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm frontend developer.
 <!-- 
 🔭 I’m currently working on improving my skills -->
 
