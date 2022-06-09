@@ -7,7 +7,7 @@
 
 <!-- [My portfolio](https://vvaleri.info/) -->
 
-Tools and languages:
+<!-- Tools and languages:
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=plastic&logo=HTML5&logoColor=E44D26)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=plastic&logo=CSS3&logoColor=2062AF)
@@ -27,7 +27,7 @@ Tools and languages:
 
 
 
-![Codewars](https://www.codewars.com/users/valeriya-off/badges/micro)
+![Codewars](https://www.codewars.com/users/valeriya-off/badges/micro) -->
 
 <!--
 **vvaleri/vvaleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
